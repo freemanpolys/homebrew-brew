@@ -4,8 +4,8 @@
 class Route53Gen < Formula
   desc ""
   homepage ""
-  version "v1.0.1"
-  url "https://github.com/freemanpolys/route53-gen/releases/download/#{version}/route53-gen_1.0.1_Darwin_x86_64.tar.gz"
+  version "1.0.1"
+  url "https://github.com/freemanpolys/route53-gen/releases/download/v#{version}/route53-gen_#{version}_Darwin_x86_64.tar.gz"
   sha256 "0d723151768f36fecc16c693074b38fb5fc6c7aeba9dc5aa8cb9b5b2721f0d86"
   license "Apache-2.0"
 
